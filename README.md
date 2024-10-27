@@ -1,4 +1,8 @@
 # Data Analysis for Business Projects
+This project was completed as part of the coursework for the course Data Analysis for Business during the Bachelor’s degree program in Management and Computer Science at Luiss Guido Carli University.
+
+This project is divided into two parts. The first (midterm) focuses on classification and clustering. Using a customer dataset, predictive models were built to identify potential credit card account closures, allowing banks to retain customers proactively. The clustering component analyzed purchasing behaviors from a Portuguese retailer to identify similar customer groups. The second part (final) involved an automobile dataset, including data cleaning, exploratory analysis, and predictive modeling of car prices, followed by clustering to classify car types based on their attributes.
+
 ## Midterm
 ### Part I: Classification
 The dataset contains information about bank customers. The script is udeful to build multiple models to predict whether a customer will close his credit card account, in that case the bank may try to propose more convenient services and prevent the client from leaving the bank.
