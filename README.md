@@ -18,4 +18,3 @@ The script is useful to:
 - conduct an explanatory data analysis to understand variables and their correlations;
 - build and compare multiple predictive models for cars' prices based on their characteristics;
 - apply, visualize and compare many clusterizations of car types based on selected covariates.
-# Data-Analysis-for-Business-Project
